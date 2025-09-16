@@ -6,7 +6,7 @@ using namespace std;
 
 vector<Produk> daftar_produk = {
     Produk("P001", "Laptop Asus", 7500000, 10),
-    Produk("P002", "Smartphone Samsung", 4500000, 15),
+    Produk("P002", "Smartphone Samsungg", 4500000, 15),
     Produk("P003", "TV LG 42inch", 5200000, 5),
     Produk("P004", "Kulkas Sharp", 3100000, 7)
 };
