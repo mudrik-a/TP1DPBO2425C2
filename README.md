@@ -1,10 +1,11 @@
+# janji
 /*Saya Mohammad Mudrik dengan NIM 2407142
 berjanji untuk mengerjakan tugas praktikum 1 dengan sungguh-sungguh
 Dalam mata kuliah Dasar Pemrograman Berorientasi Objek tanpa membocorkan atau mencotek kepada teman
 Demi Kebaikan-Nya
 */
 
-#desain 
+# desain 
 setiap kode dalam semua bahasa memiliki desain yang sama yaitu hanya memiliki 1 class dan atribut
 atribut class di cpp, java, dan python
 1. id
@@ -19,7 +20,7 @@ atribut class di php
 4. harga
 5. gambar
 
-flow code
+# flow code
 cpp : 
 1. memulai program
 2. memasukan class produk dan beberapa library
