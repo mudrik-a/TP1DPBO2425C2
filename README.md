@@ -22,4 +22,4 @@ java :
 4. menjalankan program berdasarkan input
 
 python :
-1. 
+1. apapa
