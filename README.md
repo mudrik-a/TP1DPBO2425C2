@@ -20,6 +20,7 @@ atribut class di php
 4. harga
 5. gambar
 
+
 # flow code
 cpp : 
 1. memulai program
@@ -28,6 +29,7 @@ cpp :
 4. membuat fitur-fitur yang dibutuhkan
 5. memulai program dan menampilkan menu
 6. menjalankan program berdasarkan input
+<img width="666" height="643" alt="cpp" src="https://github.com/user-attachments/assets/ef786bdc-3419-42fa-bd76-a2b883fdac97" />
 
 java :
 1. memulai program
@@ -35,6 +37,7 @@ java :
 3. membuat fitur-fitur yang dibutuhkan
 4. memulai program dan menampilkan menu
 5. menjalankan program berdasarkan input
+<img width="512" height="644" alt="java" src="https://github.com/user-attachments/assets/8fd2bb51-a1ff-4a9e-9277-d688c9807748" />
 
 python :
 1. memulai program
@@ -42,6 +45,7 @@ python :
 3. membuat fitur-fitur yang dibutuhkan
 4. memulai program dan menampilkan menu
 5. menjalankan program berdasarkan input
+<img width="524" height="639" alt="python" src="https://github.com/user-attachments/assets/51267a0f-bcba-455c-9913-7248f3a8e231" />
 
 php :
 1. memulai program
@@ -51,4 +55,5 @@ php :
 5. menampilkan form tambah data
 6. menampilkan form cari data
 7. menampilkan data
+<img width="828" height="980" alt="php" src="https://github.com/user-attachments/assets/2cf2e024-e159-4b7e-9b1f-013514a1a8eb" />
 
